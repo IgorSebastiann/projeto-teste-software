@@ -13,9 +13,11 @@
     "rest",
     "express",
     "sqlite",
-    "crud"
+    "crud",
+    "tasks",
+    "teste-software"
   ],
-  "author": "Seu Nome",
+  "author": "Igor Silva",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
@@ -25,5 +27,9 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
   }
 }
